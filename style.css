@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(243, 90, 20, 0.5);
+}
+.head{
+    color: darkblue;
+    
+}
+#bglime{
+    background-color: lime;
+}
+ul li:first-child  a{
+    background-color: yellow;
+}
+ul li:last-child a{
+    background-color: red;
+}
